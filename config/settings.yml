@@ -2,6 +2,6 @@ db:
   adapter: postgresql
   host: localhost
   user: postgres
-  password: test
+  password: 12345678
 pagination:
   page_size: 10
